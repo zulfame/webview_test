@@ -1,0 +1,17 @@
+{
+    "name": "Webview",
+    "short_name": "WBV",
+    "start_url": "/",
+    "background_color": "#010101",
+    "description": "Turn your website into a fully functional Android app in no time.",
+    "display": "fullscreen",
+    "theme_color": "#010101",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
